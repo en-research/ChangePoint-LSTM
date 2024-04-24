@@ -10,7 +10,7 @@ By informing the onset of the degradation process, health status evaluation serv
 A minimum working example dataset (FD001) is provided in ```CMAPSSData``` folder. For the complete dataset, please access it via [Saxena et al. (2008)](https://ieeexplore.ieee.org/document/4711414). 
 
 ## Code
-This is a Tensorflow 2 implementation. To train and evaluate the change point detection and RUL estimation model, run ```train.py```.
+This is a Tensorflow 2 implementation. To train and evaluate the change point detection and RUL estimation model with default hyperparameters, run ```train.py```.
 
 ## Citation
 If you found this work useful, please consider citing:
