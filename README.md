@@ -37,7 +37,8 @@ If you found this work useful, please consider citing:
   volume={144},
   pages={105840},
   year={2024},
-  publisher={Elsevier}
+  publisher={Elsevier},
+  doi = {https://doi.org/10.1016/j.conengprac.2023.105840}
 }
 ```
 
