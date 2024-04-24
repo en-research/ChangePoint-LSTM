@@ -25,7 +25,7 @@ This is a Tensorflow 2 implementation.
 
 To train and evaluate the change point detection and RUL estimation model with default hyperparameters, run ```train.py```.
 
-:bulb: Useful tip: To plot and visualize the monitoring statistics of individual engines, uncomment line ```351``` in ```CVAfunctions.py``` to activate ```statistic_plot``` function ``` before running `train.py```. However, note that this will save a file of the plot for each engine in the local directory.
+:bulb: Useful tip: To plot and visualize the monitoring statistics of individual engines, uncomment line ```351``` in ```CVAfunctions.py``` to activate ```statistic_plot``` function before running ```train.py```. However, note that this will save a file of the plot for each engine in the local directory (adjust saving option accordingly).
 
 ## Citation
 If you found this work useful, please consider citing:
