@@ -1,4 +1,4 @@
-# A change point detection integrated remaining useful life estimation model under variable operating conditions [[Paper]](https://www.sciencedirect.com/science/article/pii/S0967066123004094) [[Cite]]()
+# A change point detection integrated remaining useful life estimation model under variable operating conditions [[Paper]](https://www.sciencedirect.com/science/article/pii/S0967066123004094) [[Cite]](#citation)
 by Anushiya Arunan, Yan Qin, Xiaoli Li, Yuen Chau
 
 ## Abstract
@@ -13,7 +13,7 @@ A minimum working example dataset (FD001) is provided in ```CMAPSSData``` folder
 This is a Tensorflow 2 implementation. To train and evaluate the change point detection and RUL estimation model, run ```train.py```.
 
 ## Citation
-If you found the work useful, please consider citing:
+If you found this work useful, please consider citing:
 ```
 @article{arunan2024change,
   title={A change point detection integrated remaining useful life estimation model under variable operating conditions},
