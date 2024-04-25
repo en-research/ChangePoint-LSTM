@@ -18,7 +18,7 @@ By informing the onset of the degradation process, health status evaluation serv
 - h5py
 
 ## Dataset
-A minimum working example dataset (FD001) is provided in ```CMAPSSData``` folder. For the complete dataset, please access it via [Saxena et al. (2008)](https://ieeexplore.ieee.org/document/4711414). 
+A minimum working example dataset (FD001) is provided in ```CMAPSSData``` folder. For the complete dataset, please access it via [here](https://data.nasa.gov/Aerospace/CMAPSS-Jet-Engine-Simulated-Data/ff5v-kuh6/data). 
 
 ## Code
 The change point detection module is framework-agnostic (i.e., can be added to either a Pytorch or Tensorflow based RUL estimation model). The RUL estimation model is currently a Tensorflow 2 implementation. 
